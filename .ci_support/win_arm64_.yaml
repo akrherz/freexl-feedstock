@@ -11,4 +11,4 @@ expat:
 libiconv:
 - '1'
 target_platform:
-- win-64
+- win-arm64
